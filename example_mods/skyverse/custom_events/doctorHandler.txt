@@ -1,0 +1,10 @@
+Activates Rhythm Doctor
+
+Value 1: speed factor
+Value 2: beats
+ex: "0,0,0,0,0,1,0"
+
+0- beat
+1- skipped beat
+
+Leave value 2 blank to disable
